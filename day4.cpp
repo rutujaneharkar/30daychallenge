@@ -1,9 +1,9 @@
 // C++ program to Rearrange positive and negative
 // numbers in a array
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
-// A utility function to print an array of size n
+
 void printArray(int arr[], int n)
 {
 	for (int i = 0; i < n; i++)
@@ -49,5 +49,5 @@ int main()
 	return 0;
 }
 
-// This code is contributed by Aarti_Rathi
+
 
